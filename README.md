@@ -4,3 +4,5 @@
 Just Debloat and some other Tweaks
 # What is the Best Version to run this tool?
 Since there is Win11 Tweak baked in this Scrpit So Windows 11 is the best Choices
+# Test Status
+[![Pester](https://github.com/blusewill/WindowsSetupScrpit/actions/workflows/test.yml/badge.svg)](https://github.com/blusewill/WindowsSetupScrpit/actions/workflows/test.yml)
